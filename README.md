@@ -1,0 +1,1 @@
+Building a basic neural network from scratch to classify digits from the MNIST digit dataset
